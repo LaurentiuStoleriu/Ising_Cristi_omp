@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lali/c/Ising_Cristi_omp/build",
+  "command": "/bin/g++-9     -fopenmp -O3 -DNDEBUG   -o CMakeFiles/Ising_Cristi_omp.dir/main.cpp.o -c /home/lali/c/Ising_Cristi_omp/main.cpp",
+  "file": "/home/lali/c/Ising_Cristi_omp/main.cpp"
+}
+]

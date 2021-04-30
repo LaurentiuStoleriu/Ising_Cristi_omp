@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lali/c/Ising_Cristi_omp/main.cpp
+math.h
+-
+stdlib.h
+-
+sys/time.h
+-
+random
+-
+iostream
+-
+memory
+-
+omp.h
+-
+
